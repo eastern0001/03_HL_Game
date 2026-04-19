@@ -1,5 +1,5 @@
 def int_check(question, low=None, high=None, exit_code=None):
-    # if any integer is allowed...
+    # if any integer is allowed....
     if low is None and high is None:
         error = "Please enter an integer"
 
